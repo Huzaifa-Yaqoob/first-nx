@@ -1,0 +1,12 @@
+{
+  "name": "@org/astro-site",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@org/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0"
+  }
+}
